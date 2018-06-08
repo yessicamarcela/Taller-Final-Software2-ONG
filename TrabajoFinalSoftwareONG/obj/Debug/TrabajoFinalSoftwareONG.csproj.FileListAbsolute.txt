@@ -1,0 +1,14 @@
+F:\Manuela\TrabajoFinalSoftwareONG\TrabajoFinalSoftwareONG\bin\Debug\TrabajoFinalSoftwareONG.exe.config
+F:\Manuela\TrabajoFinalSoftwareONG\TrabajoFinalSoftwareONG\bin\Debug\TrabajoFinalSoftwareONG.exe
+F:\Manuela\TrabajoFinalSoftwareONG\TrabajoFinalSoftwareONG\bin\Debug\TrabajoFinalSoftwareONG.pdb
+F:\Manuela\TrabajoFinalSoftwareONG\TrabajoFinalSoftwareONG\obj\Debug\TrabajoFinalSoftwareONG.csprojResolveAssemblyReference.cache
+F:\Manuela\TrabajoFinalSoftwareONG\TrabajoFinalSoftwareONG\obj\Debug\TrabajoFinalSoftwareONG.historiaCl.resources
+F:\Manuela\TrabajoFinalSoftwareONG\TrabajoFinalSoftwareONG\obj\Debug\TrabajoFinalSoftwareONG.Properties.Resources.resources
+F:\Manuela\TrabajoFinalSoftwareONG\TrabajoFinalSoftwareONG\obj\Debug\TrabajoFinalSoftwareONG.csproj.GenerateResource.Cache
+F:\Manuela\TrabajoFinalSoftwareONG\TrabajoFinalSoftwareONG\obj\Debug\TrabajoFinalSoftwareONG.exe
+F:\Manuela\TrabajoFinalSoftwareONG\TrabajoFinalSoftwareONG\obj\Debug\TrabajoFinalSoftwareONG.pdb
+F:\Manuela\TrabajoFinalSoftwareONG\TrabajoFinalSoftwareONG\bin\Debug\EntityFramework.dll
+F:\Manuela\TrabajoFinalSoftwareONG\TrabajoFinalSoftwareONG\bin\Debug\EntityFramework.SqlServer.dll
+F:\Manuela\TrabajoFinalSoftwareONG\TrabajoFinalSoftwareONG\bin\Debug\EntityFramework.xml
+F:\Manuela\TrabajoFinalSoftwareONG\TrabajoFinalSoftwareONG\bin\Debug\EntityFramework.SqlServer.xml
+F:\Manuela\TrabajoFinalSoftwareONG\TrabajoFinalSoftwareONG\obj\Debug\TrabajoFinalSoftwareONG.ListadoHistoriasCl.resources
